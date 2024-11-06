@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Lego Building Set",
+      "id": "LB12345",
+      "price": 34.99,
+      "disabled": false,
+      "category": "Toys"
+    },
+    {
+      "name": "Remote Control Car",
+      "id": "RCC6789",
+      "price": 49.99,
+      "disabled": true,
+      "category": "Toys"
+    },
+    {
+      "name": "Teddy Bear Plush",
+      "id": "TB2022",
+      "price": 19.99,
+      "disabled": false,
+      "category": "Toys"
+    },
+    {
+      "name": "Puzzle Game",
+      "id": "PG3456",
+      "price": 12.50,
+      "disabled": false,
+      "category": "Toys"
+    },
+    {
+      "name": "Dollhouse Set",
+      "id": "DS9012",
+      "price": 59.99,
+      "disabled": false,
+      "category": "Toys"
+    }
+  ]
+  
